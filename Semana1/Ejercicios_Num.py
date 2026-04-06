@@ -2,7 +2,7 @@ import numpy as np
 
 # Ejercicio 1: Array de 10 ceros
 ej1 = np.zeros(10)
-
+[0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
 # Ejercicio 2: Números del 1 al 20
 ej2 = np.arange(1, 21)
 
